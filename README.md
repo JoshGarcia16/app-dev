@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-# H1 My Favourite Movies
-# H2 and a memorable quote
+# My Favourite Movies
+## and a memorable quote
 ---
 1. The Lord of the Rings Trilogy
 > "You shall not pass!"
